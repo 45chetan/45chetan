@@ -1,4 +1,4 @@
-
+/*
 document.addEventListener("DOMContentLoaded", function() {
     var nav = document.getElementsByClassName('nav')[0];
     //console.log(nav);
@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
             }
         if(window.scrollY == 0)
             {
-                top.classList.remove("show")
+                top.classList.remove("show")  */
                 top.classList.add("hide")
             }
     };
